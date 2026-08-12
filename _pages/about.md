@@ -31,13 +31,13 @@ latest_posts:
 academic_service:
   enabled: true
   items:
-     - label: Journal Reviewer
+    - label: Journal Reviewer
       description: >-
         Reviewer for IEEE Control Systems Letters and International Journal of Control, Automation and Systems.
 
     - label: Conference Reviewer
       description: >-
-        Reviewer for Indian Control Conference (ICC), ICCAS and AIAA SciTech 2025.
+        Reviewer for Indian Control Conference (ICC 2025) and AIAA SciTech 2025.
 
     - label: Professional Membership
       description: >-
