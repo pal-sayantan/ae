@@ -1,0 +1,52 @@
+---
+layout: default
+---
+<div class="home-sidebar-page">
+  {% include home_sidebar.liquid active='about' %}
+
+  <div class="home-main-content">
+    <section id="about-me" class="home-section home-about-section" aria-labelledby="about-me-title">
+      <header class="home-section-header">
+        <h1 id="about-me-title">About Me</h1>
+      </header>
+      <div class="home-about-copy">{{ content }}</div>
+    </section>
+
+    {% if page.announcements and page.announcements.enabled %}
+      <section id="news" class="home-section" aria-labelledby="news-title">
+        <header class="home-section-header">
+          <h2 id="news-title"><a href="{{ '/news/' | relative_url }}">News</a></h2>
+        </header>
+        {% include news.liquid limit=true %}
+      </section>
+    {% endif %}
+
+    {% if page.selected_papers %}
+      <section id="publications" class="home-section" aria-labelledby="publications-title">
+        <header class="home-section-header">
+          <h2 id="publications-title"><a href="{{ '/publications/' | relative_url }}">Selected Publications</a></h2>
+        </header>
+        {% include selected_papers.liquid %}
+      </section>
+    {% endif %}
+
+    {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
+      {% include newsletter.liquid center=true %}
+    {% endif %}
+
+    {% if page.academic_service and page.academic_service.enabled %}
+      <section id="academic-service" class="home-section" aria-labelledby="academic-service-title">
+        <header class="home-section-header">
+          <h2 id="academic-service-title">Academic Service</h2>
+        </header>
+        <div class="home-about-copy">
+          <ul>
+            {% for item in page.academic_service.items %}
+              <li><strong>{{ item.label }}:</strong> {{ item.description }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+      </section>
+    {% endif %}
+  </div>
+</div>
