@@ -1,7 +1,7 @@
 ---
 layout: sidebar_page
 permalink: /experience/
-title: Experience
+title: Experiences
 home_sidebar: true
 sidebar_active: experience
 
