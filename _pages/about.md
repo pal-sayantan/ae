@@ -10,11 +10,10 @@ profile:
   image_max_width: 200px
   image_circular: true # crops the image to make it circular
   # more_info: >
-  #   <p>University of Michigan</p>
-  #   <p>Robotics Department</p>
-  #   <p>FRB, 2505 Hayward St. Ann Arbor, MI 48109</p>
-  #   <p>Tel: (+734) 2775751</p>
-  #   <p>E-mail: <strong><a href="mailto:xinywa@umich.edu">xinywa@umich.edu</a></strong></p>
+  #   <p>Department of Aerospace Engineering</p>
+  #   <p>Indian Institute of Technology Kharagpur</p>
+  #   <p>Kharagpur, West Bengal, India</p>
+  #   <p>E-mail: <strong><a href="mailto:sayantanmech94@kgpian.iitkgp.ac.in">sayantanmech94@kgpian.iitkgp.ac.in</a></strong></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -32,27 +31,33 @@ latest_posts:
 academic_service:
   enabled: true
   items:
-    - label: Journal reviewer
+     - label: Journal Reviewer
       description: >-
-        IEEE Transactions on Robotics (T-RO), IEEE Transactions on Automatic Control (TAC), IEEE Transactions on Cybernetics, IEEE Robotics and Automation Letters (RA-L), IEEE Transactions on Intelligent Transportation Systems (T-ITS), International Journal of Robust and Nonlinear Control.
-    - label: Conference service
+        Reviewer for IEEE Control Systems Letters and International Journal of Control, Automation and Systems.
+
+    - label: Conference Reviewer
       description: >-
-        Associate Editor, IEEE International Conference on Control and Automation (ICCA); Robotics: Science and Systems (RSS); IEEE International Conference on Robotics and Automation (ICRA); IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS); IEEE Conference on Decision and Control (CDC); IEEE International Conference on Unmanned Aircraft Systems (ICUAS).
+        Reviewer for Indian Control Conference (ICC), ICCAS and AIAA SciTech 2025.
+
+    - label: Professional Membership
+      description: >-
+        Graduate Student Member, IEEE.
 ---
 
 
-I am currently a Postdoctoral Researcher in the [Distributed Autonomous Systems and Control (DASC) Lab](https://dasc-lab.github.io/) at the [University of Michigan (UMich)](https://umich.edu/), led by [Prof. Dimitra Panagou](https://aero.engin.umich.edu/people/panagou-dimitra/). Prior to this, I was a Postdoctoral Researcher in the [Unmanned Systems Research (USR) Group](http://www.mae.cuhk.edu.hk/~usr/) at [Hong Kong Centre For Logistics Robotics (HKCLR)](https://www.hkclr.hk/), and an Honorary Postdoctoral Researcher at [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html) in 2023. I received my Ph.D. degree from the Department of Mechanical and Automation Engineering at CUHK in 2023, where I was advised by Professor [Ben M. Chen](http://www.mae.cuhk.edu.hk/~bmchen/). 
+Welcome!
 
-My research advances trustworthy robot autonomy by combining the learning method with the formal guarantees of control theory. Research Interests: Safety-critical Control, Reinforcement Learning,  Multi-robot Task and Motion Planning, Generative Models for Robotics.
+I am a **Doctoral Student** in the **Unmanned Vehicle Systems Lab**, Department of Aerospace Engineering, **Indian Institute of Technology Kharagpur**, India.
 
-<!-- , spanning safety-critical control, model-based reinforcement learning, and multi-robot task and motion planning. -->
+My research focuses on the **guidance, and control of autonomous unmanned aerial vehicles (UAVs)**, with particular emphasis on vector-field guidance, curvature-constrained path planning, obstacle avoidance, impact-angle constrained missile guidance, and nonlinear control systems. I am also interested in autonomous systems, robotics, machine learning, and intelligent control for aerospace applications.
+
+Prior to joining IIT Kharagpur, I worked at **CSIR–Central Mechanical Engineering Research Institute (CSIR-CMERI)**, where I contributed to research on tendon-driven hand exoskeletons, flexible strain sensors, and wearable robotic systems. 
 
 
 <!-- ## Research Interests -->
 
-<!-- My research advances trustworthy robot autonomy by combining the empirical power of learning with the formal guarantees of control theory, spanning safety-critical control, model-based reinforcement learning, multi-robot task and motion planning. -->
+<!-- My research focuses on the guidance and control of autonomous aerial vehicles, with particular emphasis on nonlinear guidance, vector-field guidance, UAV path following, path planning, obstacle avoidance, curvature-constrained trajectory generation, and impact-angle-constrained missile guidance. -->
 
-<!-- I am actively seeking new job opportunities. Feel free to reach out via email if you’re interested! -->
+<!-- I am also interested in autonomous systems, intelligent guidance, optimal control, and aerospace autonomy. -->
 
-<!-- Optimization and Control Theory,
-Multi-Agent System, Safe Reinforcement Learning, Motion Planning. -->
+<!-- Guidance and Control of UAVs, Vector Field Guidance, Path Planning, Obstacle Avoidance, Missile Guidance, Nonlinear Control, Autonomous Systems, Intelligent Guidance, Optimal Control, Aerospace Autonomy. -->
