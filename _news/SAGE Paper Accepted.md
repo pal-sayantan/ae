@@ -2,7 +2,7 @@
 layout: post
 title: SAGE Paper Accepted
 date: 2026-06-25 09:00:00-0400
-venue: SAGE
+venue: J-Aero
 inline: true
 related_posts: false
 ---
