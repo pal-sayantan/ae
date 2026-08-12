@@ -1,7 +1,12 @@
 ---
-layout: page
-title: Education
+layout: sidebar_page
 permalink: /education/
+title: Education
+home_sidebar: true
+sidebar_active: education
+
+nav: true
+nav_order: 3
 ---
 
 ## Ph.D. in Aerospace Engineering
