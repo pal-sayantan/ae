@@ -2,7 +2,7 @@
 layout: post
 title: T-AES Paper Accepted
 date: 2026-03-17 09:00:00-0400
-venue: T-ASE
+venue: T-AES
 inline: true
 related_posts: false
 ---
