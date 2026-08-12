@@ -2,124 +2,133 @@
   type: map
   contents:
     - name: Full Name
-      value: Xinyi Wang
-    - name: Address
-      value: FRB, 2505 Hayward St. Ann Arbor, MI 48109, USA
+      value: Sayantan Pal
+    - name: Position
+      value: Doctoral Student
+    - name: Affiliation
+      value: Unmanned Vehicle System Lab, Department of Aerospace Engineering, Indian Institute of Technology Kharagpur
     - name: E-mail
-      value: <a href="mailto:xinywa@umich.edu">xinywa@umich.edu</a>
-    - name: Phone
-      value: (+734) 2775751
+      value: <a href="mailto:sayantanmech94@kgpian.iitkgp.ac.in">sayantanmech94@kgpian.iitkgp.ac.in</a>
 
-- title: Education & Appointments
+- title: Education
   type: time_table
   contents:
-    - title: Postdoctoral Fellow, Robotics Department
-      institution: University of Michigan, Ann Arbor, USA
-      year: 09/2024 – Present
-    - title: Postdoctoral Fellow, Department of Mechanical & Automation Engineering
-      institution: The Chinese University of Hong Kong, Hong Kong SAR
-      year: 10/2023 – 09/2024
-    - title: Ph.D. in Mechanical and Automation Engineering
-      institution: The Chinese University of Hong Kong, Hong Kong SAR
-      year: 08/2019 – 09/2023
-      description:
-        - "Advisors: Prof. Ben M. Chen and Prof. Jie Huang"
-    - title: B.Eng. in Flight Vehicle Design and Engineering
-      institution: Xiamen University, Xiamen, China
-      year: 09/2015 – 06/2019
-    - title: Visiting Student
-      institution: University of Oxford, Oxford, United Kingdom
-      year: 02/2017
+    - title: Ph.D. in Aerospace Engineering
+      institution: Indian Institute of Technology Kharagpur
+      year: 2021 – Present
 
-- title: Research Grants
+    - title: M.Tech. in Mechatronics
+      institution: Indian Institute of Engineering Science and Technology (IIEST), Shibpur
+      year: 2018 – 2020
+
+    - title: B.Tech. in Mechanical Engineering
+      institution: Maulana Abul Kalam Azad University of Technology (MAKAUT), Kolkata
+      year: 2012 – 2016
+
+- title: Research Experience
   type: time_table
   contents:
-    - title: "Enabling Autonomous, Persistent, and Adaptive Mobile Observational Networks Through Energy-Aware Dynamic Coverage (CPS: Medium)"
-      institution: National Science Foundation (NSF), USA
-      year: 2022 – 2025
+    - title: Graduate Research Assistant
+      institution: Department of Aerospace Engineering, Indian Institute of Technology Kharagpur
+      year: Aug 2021 – Present
       description:
-        - Core member
-        - "Total funding: 1,000,000 USD"
-    - title: Socially Aware Safe Navigation for Heterogeneous Multi-Agent Systems
-      institution: Toyota Research North America
-      year: 2023 – 2025
-      description:
-        - Core member
-        - "Total funding: 150,000 USD"
-    - title: "Aerial-Marine Collaborative Heterogeneous Multi-Agent Systems with Digital Twin Technology for Smart Oceans"
-      institution: General Research Fund, Hong Kong
-      year: 2025 – 2027
-      description:
-        - Proposal writer and Co-Investigator
-        - "Total funding: 1,134,931 HKD"
-    - title: "Collaborative Task Assignment of Multi-Agent Unmanned Systems for Infrastructure Inspection"
-      institution: General Research Fund, Hong Kong
-      year: 2024 – 2026
-      description:
-        - Proposal writer and core member
-        - "Total funding: 1,369,862 HKD"
-    - title: "Collaborative Search and Pursuit-evasion for Unmanned Systems in Cluttered Environments"
-      institution: General Research Fund, Hong Kong
-      year: 2023 – 2025
-      description:
-        - Proposal writer and core member
-        - "Total funding: 1,382,623 HKD"
-    - title: "Advanced Motion Planning Techniques for the Cooperation of Multi-agent Systems"
-      institution: General Research Fund, Hong Kong
-      year: 2022 – 2024
-      description:
-        - Core member
-        - "Total funding: 815,601 HKD"
-    - title: Integrated Autonomous Building Inspection and Information Management
-      institution: InnoHK Centre for Logistics Robotics, Hong Kong
-      year: 2020 – 2025
-      description:
-        - Core member
+        - Conducting doctoral research on guidance and control of autonomous aerial vehicles.
+        - Developing nonlinear guidance algorithms for UAV path following, obstacle avoidance, curvature-constrained trajectory generation, and impact-angle-constrained missile guidance.
+        - Designing vector-field guidance laws and Lyapunov-based control strategies.
+        - Validating guidance and control algorithms using MATLAB/Simulink, Quanser QDrone, and OptiTrack motion capture systems.
 
-- title: Technical Skills
+    - title: Project Associate
+      institution: Advanced Technology Development Centre (ATDC), CSIR-Central Mechanical Engineering Research Institute, Durgapur
+      year: Dec 2020 – Jul 2021
+      description:
+        - Contributed to the design and development of a tendon-driven robotic hand exoskeleton for post-stroke rehabilitation.
+        - Developed mechanical components and evaluated prototype performance.
+
+    - title: Research Assistant
+      institution: CSIR-Central Mechanical Engineering Research Institute, Durgapur
+      year: Jul 2019 – Aug 2020
+      description:
+        - Conducted research on flexible and stretchable strain sensors for wearable robotic exosuits.
+        - Designed and experimentally characterized conductive fabric-based soft sensors and pneumatic artificial muscles.
+
+- title: Research Interests
   type: list
   contents:
-    - Python, MATLAB, Julia, C++
-    - PyTorch, Robot Operating System (ROS), Gazebo
+    - UAV Guidance and Control
+    - Autonomous Vehicle Guidance
+    - Vector Field Guidance
+    - Path Planning
+    - Obstacle Avoidance
+    - Missile Guidance
+    - Nonlinear Control
+    - Autonomous Systems
+    - Intelligent Guidance
+    - Optimal Control
+    - Aerospace Autonomy
+    - Machine Learning
 
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Programming
+      items:
+        - MATLAB / Simulink
+        - Python
+        - C/C++
+        - LaTeX
+        - Git
+    - title: Experimental Platforms
+      items:
+        - Quanser QDrone
+        - Quanser QBot
+        - OptiTrack Motive
+    - title: CAD & Design
+      items:
+        - CATIA
+        - SolidWorks
+    - title: Machine Learning
+      items:
+        - TensorFlow
+        - Machine Learning Fundamentals
 
 - title: Awards & Honors
   type: time_table
   contents:
-    - year: 2024
+    - year: 2026
       items:
-        - Postdoctoral Scholarship, Innovation and Technology Fund of Hong Kong (10/2023 – 09/2024)
+        - IEEE American Control Conference (ACC) Travel Grant
+        - IIT Kharagpur International Travel Grant for CoDIT 2026
+
+    - year: 2025
+      items:
+        - IIT Kharagpur International Travel Grant for AIAA SciTech 2025
+
     - year: 2023
       items:
-        - Professor Charles K. Ko Student Creativity Award, CUHK
-        - Research Postgraduate Studentship, CUHK (2019 – 2023)
-    - year: 2019
+        - IEEE Indian Control Conference (ICC) Travel Grant
+
+    - year: 2018 – 2021
       items:
-        - Outstanding Graduates, Xiamen University (Top 2%)
-    - year: 2017
-      items:
-        - Third Prize, RoboMaster 2017 (The 16th National College Students Robotics Contest)
-        - Xiamen International Bank Scholarship, Xiamen University (Top 4%)
-    - year: 2016 – 2017
-      items:
-        - Merit Student, Xiamen University (Twice, Top 8%)
+        - GATE Fellowship, Government of India
 
 - title: Academic Services
   type: nested_list
   contents:
     - title: Journal Reviewer
       items:
-        - IEEE Transactions on Robotics (T-RO)
-        - IEEE Transactions on Automatic Control (TAC)
-        - IEEE Transactions on Cybernetics
-        - IEEE Robotics and Automation Letters (RA-L)
-        - IEEE Transactions on Intelligent Transportation Systems (T-ITS)
-        - International Journal of Robust and Nonlinear Control
-    - title: Conference Service
+        - IEEE Control Systems Letters
+        - International Journal of Control, Automation and Systems
+
+    - title: Conference Reviewer
       items:
-        - Associate Editor, IEEE International Conference on Control and Automation (ICCA)
-        - "Robotics: Science and Systems (RSS)"
-        - IEEE International Conference on Robotics and Automation (ICRA)
-        - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-        - IEEE Conference on Decision and Control (CDC)
-        - IEEE International Conference on Unmanned Aircraft Systems (ICUAS)
+        - IEEE Indian Control Conference (ICC 2025)
+        - AIAA SciTech 2025
+
+    - title: Professional Membership
+      items:
+        - Graduate Student Member, IEEE
+
+    - title: Volunteer
+      items:
+        - Advances in Robotics and AI 2020, CSIR-CMERI
+        - ICTACEM 2026, IIT Kharagpur
