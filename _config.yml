@@ -7,19 +7,19 @@ first_name: Sayantan
 middle_name:
 last_name: Pal
 contact_note: >
-  University of Michigan · Robotics Department<br>
-  FRB, 2505 Hayward St. Ann Arbor, MI 48109<br>
-  Tel: (+734) 2775751<br>
-  E-mail: <a href="mailto:xinywa@umich.edu">xinywa@umich.edu</a>.
+  Department of Aerospace Engineering<br>
+  Indian Institute of Technology Kharagpur<br>
+  Kharagpur, West Bengal, India<br>
+  E-mail: <a href="mailto:sayantanmech94@kgpian.iitkgp.ac.in">sayantanmech94@kgpian.iitkgp.ac.in</a>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Robotics researcher at the University of Michigan focused on intelligent systems and human-centered autonomy.
+  Doctoral Student at the Indian Institute of Technology Kharagpur, working on guidance and control of autonomous UAVs, missile guidance, and obstacle avoidance.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Aerospace Engineering, UAV, Guidance and Control, Path Planning, Autonomous Systems, Obstacle Avoidance, Missile Guidance, Nonlinear Control, Robotics # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🚀 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://pal-sayantan.github.io
 baseurl: "/sayantan-academic-website"
