@@ -30,8 +30,8 @@
     <nav class="home-sidebar-nav" aria-label="Primary navigation">
       <a href="{{ '/' | relative_url }}" {% if sidebar_active == 'about' %}aria-current="page"{% endif %}>About Me</a>
       <a href="{{ '/publications/' | relative_url }}" {% if sidebar_active == 'publications' %}aria-current="page"{% endif %}>Publications</a>
-      <a href="{{ '/projects/' | relative_url }}" {% if sidebar_active == 'projects' %}aria-current="page"{% endif %}>Projects</a>
-      <a href="{{ '/teaching/' | relative_url }}" {% if sidebar_active == 'teaching' %}aria-current="page"{% endif %}>Teaching</a>
+      <a href="{{ '/education/' | relative_url }}" {% if sidebar_active == 'education' %}aria-current="page"{% endif %}>Education</a>
+      <a href="{{ '/experience/' | relative_url }}" {% if sidebar_active == 'experience' %}aria-current="page"{% endif %}>Experiences</a>
     </nav>
 
     <div class="home-sidebar-social" aria-label="Social links">{% include social.liquid %}</div>
