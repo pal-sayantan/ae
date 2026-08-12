@@ -1,7 +1,12 @@
 ---
-layout: page
-title: Experience
+layout: sidebar_page
 permalink: /experience/
+title: Experience
+home_sidebar: true
+sidebar_active: experience
+
+nav: true
+nav_order: 4
 ---
 
 ## Graduate Research Assistant
