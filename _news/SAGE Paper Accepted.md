@@ -7,4 +7,4 @@ inline: true
 related_posts: false
 ---
 
-*"Continuous-Curvature Dubins-Inspired L1 Guidance with Sliding Mode Control-Based Tracking for UAVs"* accepted for publication in *Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering*.
+*"Continuous-Curvature Dubins-Inspired L1 Guidance with Sliding Mode Control-Based Tracking for UAVs"* accepted to *Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering*.
