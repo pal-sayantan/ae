@@ -41,9 +41,9 @@
 
 **Browser checks**
 
-- Page identity: `Xinyi Wang` at `http://127.0.0.1:4002/#news`.
+- Page identity: `Sayantan Pal` at `http://127.0.0.1:4002/#news`.
 - DOM exposed four rows in the order `date -> venue -> content`.
-- Venue labels present: T-ASE, IROS, L4DC, and ICRA.
+- Venue labels present: the venues specified in the News item front matter.
 - News navigation scrolled the section to 31.9 px from the mobile viewport top.
 - Desktop and mobile News scrollbar: false.
 - Mobile document width: 390 px at a 390 px viewport.
