@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AIAA SciTech Forum 2027 Paper Acceptance
-date: 2026-08-31 10:00:00-0400
+date: 2026-08-24 10:00:00-0400
 venue: AIAA SciTech
 inline: true
 related_posts: false
