@@ -1,10 +1,10 @@
 ---
 layout: post
-title: CoDIT Paper Presentation
-date: 2026-07-15 10:00:00-0400
-venue: CoDIT
+title: AIAA SciTech Forum 2027 Paper Acceptance
+date: 2026-08-24 10:00:00-0400
+venue: AIAA SciTech
 inline: true
 related_posts: false
 ---
 
-*"Arccosine Vector Field Guidance for Curvilinear Path Following of UAVs"* presented at the **International Conference on Control, Decision and Information Technologies (CoDIT)**.
+*"Three Dimensional Vector Field Guidance Law for Following Arbitrary Paths"* accepted for presentation at the **AIAA SciTech Forum 2027**.
