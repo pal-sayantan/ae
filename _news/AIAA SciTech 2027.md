@@ -1,10 +1,10 @@
 ---
 layout: post
-title: AIAA SciTech Forum 2027 Paper Acceptance
-date: 2026-08-24 10:00:00-0400
-venue: AIAA SciTech
+title: AIAA GNC 2027
+date: 2026-08-24 12:00:00-0400
+venue: AIAA GNC 2027
 inline: true
 related_posts: false
 ---
 
-*"Finite-Time Sliding Mode Control for Curvature-Constrained UAV Path Following"* accepted for presentation at the **AIAA SciTech Forum 2027**.
+*"Three Dimensional Vector Field Guidance Law for Following Arbitrary Paths"* accepted for the **2027 AIAA SciTech Forum**.
